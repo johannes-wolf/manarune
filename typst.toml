@@ -1,0 +1,14 @@
+[package]
+name = "manarune"
+version = "1.0.0"
+compiler = "0.10.0"
+repository = "https://github.com/johannes-wolf/manarune"
+entrypoint = "manarune.typ"
+authors = [
+  "Johannes Wolf <https://github.com/johannes-wolf>",
+]
+categories = [ "fonts" ]
+license = "LGPL-3.0-only"
+description = "Symbol mapping for Magic: The Gathering symbols"
+keywords = [ "font" ]
+exclude = [ "manual.pdf", "manual.typ" ]
